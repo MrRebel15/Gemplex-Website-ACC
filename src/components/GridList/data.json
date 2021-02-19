@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "title":"Matsar",
+        "desc":"A story of friendship turning toxic when one friend cheats the other over an ATM robbery.",
+        "image":"https://preprod-gemplex-assets.gemplex.tv/define-grid/images/thumbnails_4_3/1589452551578.jpg"
+        
+    
+    },
+    {
+        "id":2,
+        "title":"Khushfehmiyaan",
+        "desc":"A Journey of reconciliation, friendship and happiness. Peter Braganza and his three adopted cooks who are also best friends and the popular chefs of Peter's Café in Goa.",
+        "image":"https://preprod-gemplex-assets.gemplex.tv/define-grid/images/thumbnails_4_5/1599300172915.jpg",
+        "rows":1
+        
+    },
+    {
+        "id":3,
+        "title":"Courtyard 704",
+        "desc":"A young couple comes to live in an apartment in Mumbai, Courtyard 704, within few days the wife becomes pregnant and what follows is a mysterious evil conspiracy behind her pregnancy.",
+        "image":"https://preprod-gemplex-assets.gemplex.tv/define-grid/images/thumbnails_4_3/1599299973961.jpg"
+        
+        
+    },
+    {
+        "id":4,
+        "title":"Z43",
+        "desc":"In the city of Kochi, Kerala people are terrified when a kidnapper demands unusual ransom from the public to terminate a doctor and a principal to rescue the victim",
+        "image":"https://preprod-gemplex-assets.gemplex.tv/define-grid/images/thumbnails_4_3/1609850264606.jpg"
+    },
+    {
+        "id":5,
+        "title":"Shepherds From Hell",
+        "desc":"In the city of Kochi, Kerala people are terrified when a kidnapper demands unusual ransom from the public to terminate a doctor and a principal to rescue the victim.",
+        "image":"https://preprod-gemplex-assets.gemplex.tv/define-grid/images/thumbnails_4_5/1609850285639.jpg"
+        
+        
+    },
+    {
+        "id":6,
+        "title":"Twosome",
+        "desc":"Twosome is a story of two strangers who are completely opposite to each other spend a whole night under one roof.",
+        "image":"https://preprod-gemplex-assets.gemplex.tv/define-grid/images/thumbnails_4_3/1577706856362.jpg",
+        "cols":2
+        
+    },
+    {
+        "id":7,
+        "title":"Lovely Da Dhaba",
+        "desc":"A widow of a decorated army martyr who is running a Dhaba on the outskirts of a national highway in Punjab with the spirit of Seva. She leverages her cooking and metaphorical communication to resolve complex interpersonal issues amicably.",
+        "image":"https://preprod-gemplex-assets.gemplex.tv/define-grid/images/thumbnails_4_3/1577707041001.jpg"
+        
+    }
+    
+]
